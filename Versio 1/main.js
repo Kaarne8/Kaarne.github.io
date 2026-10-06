@@ -6,7 +6,6 @@ for (let i = 0; i < 10; i++) {
 
     kaverit.push(nimi);
 }
-
 for (let i = 0; i < kaverit.length; i++) {
 
     let uusiKaveri = document.createElement("li");
