@@ -1,0 +1,31 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+#lista {
+    margin-top: 20px;
+}

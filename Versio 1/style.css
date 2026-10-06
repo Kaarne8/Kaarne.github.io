@@ -1,0 +1,29 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin: 12px 0;
+    font-size: 18px;
+    background-color: #333;
+    padding: 12px 16px;
+    border-radius: 6px;
+    max-width: 300px;
+}
+
+li::marker {
+    color: white;
+    font-weight: bold;
+}
